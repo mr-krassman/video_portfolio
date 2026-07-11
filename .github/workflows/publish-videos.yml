@@ -1,0 +1,26 @@
+name: Publish video assets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*.mp4"
+      - ".github/workflows/publish-videos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload videos to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: videos
+          name: Video Assets
+          body: MP4 files for inline playback in README.
+          files: "*.mp4"
+          overwrite_files: true
