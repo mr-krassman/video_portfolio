@@ -72,6 +72,12 @@
 
 ![Один отбирает у двух](gifs/odin_otbiraet_u_dvuh.gif)
 
+## Оператор
+
+### Оператор
+
+![Оператор](gifs/operator.gif)
+
 ## Список всех GIF
 
 | № | Название | Файл |
@@ -91,3 +97,4 @@
 | 13 | Один на один | [odin_na_odin.gif](gifs/odin_na_odin.gif) |
 | 14 | Один против двух | [odin_protiv_dvuh.gif](gifs/odin_protiv_dvuh.gif) |
 | 15 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
+| 16 | Оператор | [operator.gif](gifs/operator.gif) |
