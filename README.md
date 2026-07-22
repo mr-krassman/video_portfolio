@@ -78,15 +78,11 @@
 
 ![Оператор](gifs/operator.gif)
 
-## Работа над ошибками
+## Футбол Зенит
 
-### Работа над ошибками 1
+### Футбол Зенит
 
-![Работа над ошибками 1](gifs/rabota_nad_oshibkami_1.gif)
-
-### Работа над ошибками 2
-
-![Работа над ошибками 2](gifs/rabota_nad_oshibkami_2.gif)
+![Футбол Зенит](gifs/futbol_zenit.gif)
 
 ## Список всех GIF
 
@@ -108,5 +104,4 @@
 | 14 | Один против двух | [odin_protiv_dvuh.gif](gifs/odin_protiv_dvuh.gif) |
 | 15 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
 | 16 | Оператор | [operator.gif](gifs/operator.gif) |
-| 17 | Работа над ошибками 1 | [rabota_nad_oshibkami_1.gif](gifs/rabota_nad_oshibkami_1.gif) |
-| 18 | Работа над ошибками 2 | [rabota_nad_oshibkami_2.gif](gifs/rabota_nad_oshibkami_2.gif) |
+| 17 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
