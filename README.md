@@ -84,6 +84,12 @@
 
 ![Футбол Зенит](gifs/futbol_zenit.gif)
 
+## Хоккей
+
+### Хоккей
+
+![Хоккей](gifs/hokkey.gif)
+
 ## Список всех GIF
 
 | № | Название | Файл |
@@ -105,3 +111,4 @@
 | 15 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
 | 16 | Оператор | [operator.gif](gifs/operator.gif) |
 | 17 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
+| 18 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
