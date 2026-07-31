@@ -171,8 +171,5 @@
 | 35 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
 | 36 | Гости | [gosti.gif](gifs/gosti.gif) |
 
-## Гости
-
-### Гости
 
 ![Гости](gifs/gosti.gif)
