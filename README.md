@@ -170,6 +170,13 @@
 | 34 | Оператор | [operator.gif](gifs/operator.gif) |
 | 35 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
 | 36 | Гости | [gosti.gif](gifs/gosti.gif) |
+| 37 | Результат виртуального оператора | [virtual_operator_result.gif](gifs/virtual_operator_result.gif) |
 
 
 ![Гости](gifs/gosti.gif)
+
+## Результат виртуального оператора
+
+### Результат виртуального оператора
+
+![Результат виртуального оператора](gifs/virtual_operator_result.gif)
