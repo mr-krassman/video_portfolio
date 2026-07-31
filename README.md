@@ -1,8 +1,6 @@
-# Video Portfolio — Футбольные навыки
+# Video Portfolio
 
-Видеопортфолио с демонстрацией физической подготовки и технических навыков.
-
-## Бег
+## Беговые упражнения
 
 ### Бег 15 м
 
@@ -30,7 +28,7 @@
 
 ![Тройной прыжок в длину с места](gifs/troynoy_pryzhok_v_dlinu_s_mesta.gif)
 
-## Ведение мяча
+## Упражнения с мячом
 
 ### Ведение мяча 15 м
 
@@ -44,6 +42,14 @@
 
 ![Ведение мяча с изменением направления](gifs/vedenie_myacha_s_izmeneniem_napravleniya.gif)
 
+### Стрела
+
+![Стрела](gifs/arrow.gif)
+
+### Змейка
+
+![Змейка](gifs/snake.gif)
+
 ## Удары и передачи
 
 ### Передача правой
@@ -54,9 +60,23 @@
 
 ![Удар на точность](gifs/udar_na_tochnost.gif)
 
+### Пушка
+
+![Пушка](gifs/monster_kick.gif)
+
 ### Жонглирование ударами головой
 
 ![Жонглирование ударами головой](gifs/zhonglirovanie_udarami_golovoy.gif)
+
+## Координационные упражнения
+
+### Лесенка
+
+![Лесенка](gifs/ladder.gif)
+
+### Лесенка 2
+
+![Лесенка 2](gifs/ladder_2.gif)
 
 ## Игра 1 на 1 / 1 на 2
 
@@ -109,13 +129,18 @@
 | 7 | Ведение мяча 15 м | [vedenie_myacha_15.gif](gifs/vedenie_myacha_15.gif) |
 | 8 | Ведение мяча 3×10 м | [vedenie_myacha_3_10.gif](gifs/vedenie_myacha_3_10.gif) |
 | 9 | Ведение мяча с изменением направления | [vedenie_myacha_s_izmeneniem_napravleniya.gif](gifs/vedenie_myacha_s_izmeneniem_napravleniya.gif) |
-| 10 | Передача правой | [peredacha_pravoy.gif](gifs/peredacha_pravoy.gif) |
-| 11 | Удар на точность | [udar_na_tochnost.gif](gifs/udar_na_tochnost.gif) |
-| 12 | Жонглирование ударами головой | [zhonglirovanie_udarami_golovoy.gif](gifs/zhonglirovanie_udarami_golovoy.gif) |
-| 13 | Один на один | [odin_na_odin.gif](gifs/odin_na_odin.gif) |
-| 14 | Один против двух | [odin_protiv_dvuh.gif](gifs/odin_protiv_dvuh.gif) |
-| 15 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
-| 16 | Оператор | [operator.gif](gifs/operator.gif) |
-| 17 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
-| 18 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
-| 19 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
+| 10 | Стрела | [arrow.gif](gifs/arrow.gif) |
+| 11 | Змейка | [snake.gif](gifs/snake.gif) |
+| 12 | Передача правой | [peredacha_pravoy.gif](gifs/peredacha_pravoy.gif) |
+| 13 | Удар на точность | [udar_na_tochnost.gif](gifs/udar_na_tochnost.gif) |
+| 14 | Пушка | [monster_kick.gif](gifs/monster_kick.gif) |
+| 15 | Жонглирование ударами головой | [zhonglirovanie_udarami_golovoy.gif](gifs/zhonglirovanie_udarami_golovoy.gif) |
+| 16 | Лесенка | [ladder.gif](gifs/ladder.gif) |
+| 17 | Лесенка 2 | [ladder_2.gif](gifs/ladder_2.gif) |
+| 18 | Один на один | [odin_na_odin.gif](gifs/odin_na_odin.gif) |
+| 19 | Один против двух | [odin_protiv_dvuh.gif](gifs/odin_protiv_dvuh.gif) |
+| 20 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
+| 21 | Оператор | [operator.gif](gifs/operator.gif) |
+| 22 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
+| 23 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
+| 24 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
