@@ -92,30 +92,6 @@
 
 ![Один отбирает у двух](gifs/odin_otbiraet_u_dvuh.gif)
 
-## Оператор
-
-### Оператор
-
-![Оператор](gifs/operator.gif)
-
-## Футбол Зенит
-
-### Футбол Зенит
-
-![Футбол Зенит](gifs/futbol_zenit.gif)
-
-## Хоккей
-
-### Хоккей
-
-![Хоккей](gifs/hokkey.gif)
-
-## Вирт оператор футбол
-
-### Вирт оператор футбол
-
-![Вирт оператор футбол](gifs/virt_operator_futbol.gif)
-
 ## Список всех GIF
 
 | № | Название | Файл |
@@ -144,3 +120,27 @@
 | 22 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
 | 23 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
 | 24 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
+
+## Оператор
+
+### Оператор
+
+![Оператор](gifs/operator.gif)
+
+## Футбол Зенит
+
+### Футбол Зенит
+
+![Футбол Зенит](gifs/futbol_zenit.gif)
+
+## Хоккей
+
+### Хоккей
+
+![Хоккей](gifs/hokkey.gif)
+
+## Вирт оператор футбол
+
+### Вирт оператор футбол
+
+![Вирт оператор футбол](gifs/virt_operator_futbol.gif)
