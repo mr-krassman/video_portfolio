@@ -169,3 +169,10 @@
 | 33 | Хоккей 6 | [hockey_5.gif](gifs/hockey_5.gif) |
 | 34 | Оператор | [operator.gif](gifs/operator.gif) |
 | 35 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
+| 36 | Гости | [gosti.gif](gifs/gosti.gif) |
+
+## Гости
+
+### Гости
+
+![Гости](gifs/gosti.gif)
