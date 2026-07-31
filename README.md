@@ -94,7 +94,6 @@
 
 ## Футбол Зенит
 
-
 ![Футбол Зенит](gifs/futbol_zenit.gif)
 
 ![Работа с событиями](gifs/rabota_s_sobitiyami.gif)
@@ -115,31 +114,19 @@
 
 ## Хоккей
 
-### Хоккей
-
 ![Хоккей](gifs/hokkey.gif)
-
-### Хоккей 2
 
 ![Хоккей 2](gifs/hockey.gif)
 
-### Хоккей 3
-
 ![Хоккей 3](gifs/hockey2.gif)
-
-### Хоккей 4
 
 ![Хоккей 4](gifs/hockey_3.gif)
 
-### Хоккей 5
-
 ![Хоккей 5](gifs/hockey_4.gif)
-
-### Хоккей 6
 
 ![Хоккей 6](gifs/hockey_5.gif)
 
-### Оператор
+### Вирт оператор хоккей
 
 ![Оператор](gifs/operator.gif)
 
