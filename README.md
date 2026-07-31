@@ -115,9 +115,31 @@
 
 ## Хоккей
 
+### Хоккей
+
 ![Хоккей](gifs/hokkey.gif)
 
-### Вирт оператор оператор
+### Хоккей 2
+
+![Хоккей 2](gifs/hockey.gif)
+
+### Хоккей 3
+
+![Хоккей 3](gifs/hockey2.gif)
+
+### Хоккей 4
+
+![Хоккей 4](gifs/hockey_3.gif)
+
+### Хоккей 5
+
+![Хоккей 5](gifs/hockey_4.gif)
+
+### Хоккей 6
+
+![Хоккей 6](gifs/hockey_5.gif)
+
+### Оператор
 
 ![Оператор](gifs/operator.gif)
 
@@ -153,5 +175,10 @@
 | 26 | События | [sobytia.gif](gifs/sobytia.gif) |
 | 27 | Трекинг | [treking.gif](gifs/treking.gif) |
 | 28 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
-| 29 | Оператор | [operator.gif](gifs/operator.gif) |
-| 30 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
+| 29 | Хоккей 2 | [hockey.gif](gifs/hockey.gif) |
+| 30 | Хоккей 3 | [hockey2.gif](gifs/hockey2.gif) |
+| 31 | Хоккей 4 | [hockey_3.gif](gifs/hockey_3.gif) |
+| 32 | Хоккей 5 | [hockey_4.gif](gifs/hockey_4.gif) |
+| 33 | Хоккей 6 | [hockey_5.gif](gifs/hockey_5.gif) |
+| 34 | Оператор | [operator.gif](gifs/operator.gif) |
+| 35 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
