@@ -98,6 +98,30 @@
 
 ![Футбол Зенит](gifs/futbol_zenit.gif)
 
+### Работа с событиями
+
+![Работа с событиями](gifs/rabota_s_sobitiyami.gif)
+
+### Работа с окулюсами
+
+![Работа с окулюсами](gifs/rabota_s_okolusiyami.gif)
+
+### Работа с окулюсами 2
+
+![Работа с окулюсами 2](gifs/rabota_s_okolusiyami_2.gif)
+
+### События 2
+
+![События 2](gifs/sobitia_2.gif)
+
+### События
+
+![События](gifs/sobytia.gif)
+
+### Трекинг
+
+![Трекинг](gifs/treking.gif)
+
 ## Хоккей
 
 ### Хоккей
@@ -141,6 +165,12 @@
 | 19 | Один против двух | [odin_protiv_dvuh.gif](gifs/odin_protiv_dvuh.gif) |
 | 20 | Один отбирает у двух | [odin_otbiraet_u_dvuh.gif](gifs/odin_otbiraet_u_dvuh.gif) |
 | 21 | Футбол Зенит | [futbol_zenit.gif](gifs/futbol_zenit.gif) |
-| 22 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
-| 23 | Оператор | [operator.gif](gifs/operator.gif) |
-| 24 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
+| 22 | Работа с событиями | [rabota_s_sobitiyami.gif](gifs/rabota_s_sobitiyami.gif) |
+| 23 | Работа с окулюсами | [rabota_s_okolusiyami.gif](gifs/rabota_s_okolusiyami.gif) |
+| 24 | Работа с окулюсами 2 | [rabota_s_okolusiyami_2.gif](gifs/rabota_s_okolusiyami_2.gif) |
+| 25 | События 2 | [sobitia_2.gif](gifs/sobitia_2.gif) |
+| 26 | События | [sobytia.gif](gifs/sobytia.gif) |
+| 27 | Трекинг | [treking.gif](gifs/treking.gif) |
+| 28 | Хоккей | [hokkey.gif](gifs/hokkey.gif) |
+| 29 | Оператор | [operator.gif](gifs/operator.gif) |
+| 30 | Вирт оператор футбол | [virt_operator_futbol.gif](gifs/virt_operator_futbol.gif) |
